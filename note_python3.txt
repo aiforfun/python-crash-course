@@ -1,0 +1,5 @@
+import importlib
+importlib.reload() # for Python 3.4 and above
+
+pip install --user pygal
+pip3 install --user pygal
